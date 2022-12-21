@@ -1,0 +1,3 @@
+Goku : 9001
+Vegeta : 8400
+Chiaotzu : 15000
